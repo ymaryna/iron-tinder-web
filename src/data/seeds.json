@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Carlos",
+        "email": "carlos@example.com",
+        "password": "12341234",
+        "avatar": "https://img.pngio.com/png-avatar-108-images-in-collection-page-3-png-avatar-300_300.png",
+        "preferences_genre": "Female",
+        "preferences_distance": "20",
+        "preferences_age_min": "18",
+        "preferences_age_max": "34",
+        "age": "24",
+        "genre": "Male",
+        "bio": "Hola soy Carlos"
+    },
+    {
+        "name": "Sandra",
+        "email": "sandra@info.com",
+        "password": "12341234",
+        "avatar": "https://lh5.googleusercontent.com/proxy/RHF7NfmxKnETJ4r_hiqs845ZjxsaQz-09c1-DOVVydqqPv7gj-xwUn_9gq4FeI3k-RKGGKm-2MvqWOKUiVnpm5RIDBsuymMzFTU5K6U40icQ1_OGwpVRld7ERt4",
+        "preferences_genre": "Male",
+        "preferences_distance": "30",
+        "preferences_age_min": "20",
+        "preferences_age_max": "30",
+        "age": "25",
+        "genre": "Female",
+        "bio": "Hola soy Sandra"
+    }
+]
